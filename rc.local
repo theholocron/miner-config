@@ -1,0 +1,2 @@
+# append the following line to the /etc/rc.local
+/path/to/startup_script/miner_launcher.sh 15
